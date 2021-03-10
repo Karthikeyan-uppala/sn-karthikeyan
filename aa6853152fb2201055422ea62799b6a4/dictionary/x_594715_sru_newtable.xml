@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="newtable" max_length="40" name="x_594715_sru_newtable" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="newcol" max_length="20" name="newcol" type="integer"/>
+    </element>
+</database>
