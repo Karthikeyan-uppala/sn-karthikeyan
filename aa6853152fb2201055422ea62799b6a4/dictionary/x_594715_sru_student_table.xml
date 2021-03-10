@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="student table" max_length="40" name="x_594715_sru_student_table" sizeclass="2" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Name Of Student" max_length="40" name="name_of_student" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Phone Number" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <element label="Rollno" max_length="40" name="rollno" type="integer"/>
+    </element>
+</database>
